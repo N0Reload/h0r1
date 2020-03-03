@@ -41,17 +41,17 @@ html, body
 }
 .btn-primary
 {
-  background: linear-gradient(to right, #293080, #835717);
+  background: linear-gradient(to right, #e66110, #00376c);
   border: #000000;
 }
 .btn-primary:hover
 {
-  background: linear-gradient(to right, #293080, #835717);
+  background: linear-gradient(to right, #e66110, #00376c);
   border: #000000;
 }
 .nc
 {
-  background: linear-gradient(to right, #293080, #835717);
+  background: linear-gradient(to right, #e66110, #00376c);
   border: #000000;
 }
 .jumbotron
